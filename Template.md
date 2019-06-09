@@ -7,9 +7,9 @@
 > 
 > Question Description:
 > 
-> Question Difficulty:
+> Question Note:
 > 
-> Question Reference: 
+> Question Difficulty: 
 > 
 > Question Example:
 > 
@@ -38,9 +38,13 @@ __Solution Implementation__:
 
 ```
 
-__Solution Archive (If exists)__:
+__Solution Archive (If Exists)__:
 
 Version 1:
+
+> Runtime: [Time] [Percentile]
+> 
+> Memory: [Space] [Percentile]
 
 ```python
 
