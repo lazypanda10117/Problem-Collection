@@ -4,6 +4,8 @@
 #include <vector>
 #include <iostream>
 
+// Solution by: Ting Wei Liu and Jeffrey Kam
+
 bool isExact(const std::vector<std::vector<int>>& A, size_t i, size_t j) {
 	for (size_t k = 0; k < A.size(); ++k) {
 		if (A[i][k] != A[j][k]) {
