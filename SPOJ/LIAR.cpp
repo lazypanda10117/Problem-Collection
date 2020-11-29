@@ -87,3 +87,24 @@ int main() {
 		}
 	}
 }
+
+// Input
+// 4
+// 2
+// LL
+// TT
+// 3
+// TTT
+// TTT
+// TTT
+// 4
+// TLLL
+// LTLL
+// LLTL
+// LLLT
+// 5
+// TLTLT
+// TTTTT
+// LLTLL
+// LLLLL
+// TLTLT

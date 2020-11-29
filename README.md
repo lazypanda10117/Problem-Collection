@@ -1,3 +1,3 @@
 # Problem-Collection
-A collection of solutions and analysis for programming problems on various sources (i.e. LeetCode)
+A collection of my solutions for problems from various competitions and practice sites (i.e. LeetCode, SPOJ)
 
