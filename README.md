@@ -1,2 +1,2 @@
 # Problem-Collection
-A collection of solutions for problems.
+A collection of solutions for different problems.

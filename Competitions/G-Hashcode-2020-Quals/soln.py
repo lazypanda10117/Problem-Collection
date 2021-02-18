@@ -1,3 +1,6 @@
+# 2020 qualification round. Did not actually participate.
+# https://codingcompetitions.withgoogle.com/hashcode/archive
+
 from pathlib import Path
 
 class Book:
